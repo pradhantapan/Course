@@ -9,3 +9,8 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Tapan Pradhan
+Algorithm Analysis
+Time complexity and space complexity. Big-O notation to represent complexity. Big-O represents the complexity in worst case mostly.
+Big-O is determined in terms of n -> number of input items to be processed
+
